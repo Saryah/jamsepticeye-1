@@ -3,21 +3,69 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Level_Design/Levels/Test_Level.tmx",
     "expandedProjectPaths": [
+        "Level_Design/Tiles",
+        "Level_Design/Levels",
+        ".",
+        "Level_Design"
     ],
     "fileStates": {
+        "C:/Users/gilmo/GitHub/Orb Dungeon/Gil/jamsepticeye-1/Assets/Levls/Level_Design/Levels/Test_Level.tmx": {
+            "scale": 1.1495,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1206.1765985210961,
+                "y": 722.0530665506742
+            }
+        },
+        "C:/Users/gilmo/GitHub/Orb Dungeon/Gil/jamsepticeye-1/Assets/Levls/Level_Design/Tiles/Bitsy_Tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Level_Design/Levels/Bitsy Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level_Design/Levels/Test_Level.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 445.875,
+                "y": 345.25
+            }
+        },
+        "Level_Design/Tiles/BackGround_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level_Design/Tiles/Bitsy_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level_Design/Tiles/Ground_Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
-    "last.imagePath": "C:/Users/gilmo/GitHub/Orb Dungeon/Creative/jamsepticeye-1/Aseprite",
+    "last.imagePath": "C:/Users/gilmo/GitHub/Orb Dungeon/Gil/jamsepticeye-1/Assets/Visuals",
     "map.height": 50,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "map.width": 50,
     "openFiles": [
+        "Level_Design/Levels/Test_Level.tmx",
+        "Level_Design/Tiles/Bitsy_Tiles.tsx",
+        "C:/Users/gilmo/GitHub/Orb Dungeon/Gil/jamsepticeye-1/Assets/Levls/Level_Design/Levels/Test_Level.tmx"
     ],
     "project": "Cultist Game.tiled-project",
     "recentFiles": [
+        "C:/Users/gilmo/GitHub/Orb Dungeon/Gil/jamsepticeye-1/Assets/Levls/Level_Design/Levels/Test_Level.tmx",
+        "Level_Design/Tiles/Bitsy_Tiles.tsx",
+        "Level_Design/Levels/Test_Level.tmx",
+        "Level_Design/Levels/Bitsy Tiles.tsx",
+        "Level_Design/Tiles/Ground_Tiles.tsx",
+        "Level_Design/Tiles/BackGround_Tiles.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
