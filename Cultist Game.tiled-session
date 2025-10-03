@@ -8,7 +8,9 @@
     ],
     "fileStates": {
     },
+    "last.imagePath": "C:/Users/gilmo/GitHub/Orb Dungeon/Creative/jamsepticeye-1/Aseprite",
     "map.height": 50,
+    "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "map.width": 50,
@@ -16,5 +18,10 @@
     ],
     "project": "Cultist Game.tiled-project",
     "recentFiles": [
-    ]
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
 }
