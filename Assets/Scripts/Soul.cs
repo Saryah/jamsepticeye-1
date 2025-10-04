@@ -19,10 +19,20 @@ public class Soul : MonoBehaviour
         this.teleportObject = teleportObject;
         this.onTeleport += onTeleport;
     }
+
+    public void Bounce()
+    {
+        rb.linearVelocityY = -rb.linearVelocityY;
+    }
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    public void DestroySoul()
+    {
+        Destroy(this.gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
